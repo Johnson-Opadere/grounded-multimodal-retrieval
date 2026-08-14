@@ -102,3 +102,8 @@ GitHub SSH/
 !results/retrieval_metrics.json
 !results/llm_reports/
 !results/llm_reports/*.txt
+
+# Large generated retrieval visualization collections
+# Selected representative examples are retained in assets/
+assets/grounded_retrieval/
+assets/vision_neighbors/
