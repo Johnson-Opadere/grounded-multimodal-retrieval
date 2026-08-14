@@ -1,0 +1,68 @@
+[
+  {
+    "idx": 0,
+    "damage_bucket": "generic_damage",
+    "source_event": "mexico-earthquake",
+    "text": "the majority of damaged buildings are these businesses."
+  },
+  {
+    "idx": 1,
+    "damage_bucket": "structural_damage",
+    "source_event": "mexico-earthquake",
+    "text": "mayor sotelo says , buildings are damaged, of those totally collapsed."
+  },
+  {
+    "idx": 2,
+    "damage_bucket": "structural_damage",
+    "source_event": "mexico-earthquake",
+    "text": "the two houses next to his collapsed, and the damage means his house will probably be condemned."
+  },
+  {
+    "idx": 3,
+    "damage_bucket": "generic_damage",
+    "source_event": "socal-fire",
+    "text": "far more homes got destroyed."
+  },
+  {
+    "idx": 4,
+    "damage_bucket": "generic_damage",
+    "source_event": "socal-fire",
+    "text": "we're talking hundreds, well over , in addition to many, many houses damaged."
+  },
+  {
+    "idx": 5,
+    "damage_bucket": "generic_damage",
+    "source_event": "santa-rosa-wildfire",
+    "text": "looking at blocks and blocks of homes, entire neighborhoods, mobile home parks, hotels, restaurants, commercial buildings, warehouses, and everything in between completely destroyed."
+  },
+  {
+    "idx": 6,
+    "damage_bucket": "generic_damage",
+    "source_event": "santa-rosa-wildfire",
+    "text": "we're looking at upwards of seven or eight firefighters that we know of whose homes were destroyed while we were battling this fire and continue to battle this fire, including my own."
+  },
+  {
+    "idx": 7,
+    "damage_bucket": "infrastructure_damage",
+    "source_event": "midwest-flooding",
+    "text": "in nebraska, governor pete ricketts says roads, levies and other infrastructure have been damaged to the tune of almost a half a billion dollars."
+  },
+  {
+    "idx": 8,
+    "damage_bucket": "flooding",
+    "source_event": "midwest-flooding",
+    "text": "yeah, you know, we've got some acreages where floodwaters have just inundated their grain bins, whether they're storing corn and soybeans from the previous growing season."
+  },
+  {
+    "idx": 9,
+    "damage_bucket": "infrastructure_damage",
+    "source_event": "hurricane-matthew",
+    "text": "it uprooted trees, destroyed bridges and homes."
+  },
+  {
+    "idx": 10,
+    "damage_bucket": "generic_damage",
+    "source_event": "hurricane-matthew",
+    "text": "in the last two weeks, there has been some work on trying to get houses covered again."
+  }
+]

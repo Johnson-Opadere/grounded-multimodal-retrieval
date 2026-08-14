@@ -93,3 +93,12 @@ GitHub SSH/
 # Jupyter
 # ----------------------------
 *.ipynb
+# Keep lightweight final retrieval indexes and evaluation outputs
+!indexes/
+!indexes/*.faiss
+!indexes/*.json
+
+!results/
+!results/retrieval_metrics.json
+!results/llm_reports/
+!results/llm_reports/*.txt

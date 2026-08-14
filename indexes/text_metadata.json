@@ -1,0 +1,422 @@
+[
+  {
+    "idx": 0,
+    "damage_bucket": "structural_damage",
+    "source_event": "mexico-earthquake",
+    "text": "in the wealthy neighborhoods of mexico city, recovery is well underway, with just a few empty lots resulting from collapsed structures or damaged buildings still awaiting demolition."
+  },
+  {
+    "idx": 1,
+    "damage_bucket": "structural_damage",
+    "source_event": "mexico-earthquake",
+    "text": "still, rescuers feared the toll would rise as they searched for possible survivors in the rubble of collapsed buildings."
+  },
+  {
+    "idx": 2,
+    "damage_bucket": "generic_damage",
+    "source_event": "mexico-earthquake",
+    "text": "the mexico city government opened shelters for those whose homes were damaged."
+  },
+  {
+    "idx": 3,
+    "damage_bucket": "structural_damage",
+    "source_event": "mexico-earthquake",
+    "text": "throughout the city, rescue workers and residents dug through the rubble of collapsed buildings."
+  },
+  {
+    "idx": 4,
+    "damage_bucket": "structural_damage",
+    "source_event": "mexico-earthquake",
+    "text": "teams formed to dig through rubble \u2014 which at the time included hospitals, apartments and hotels."
+  },
+  {
+    "idx": 5,
+    "damage_bucket": "structural_damage",
+    "source_event": "mexico-earthquake",
+    "text": "at least buildings, including apartments and office buildings, collapsed during the earthquake."
+  },
+  {
+    "idx": 6,
+    "damage_bucket": "generic_damage",
+    "source_event": "hurricane-harvey",
+    "text": "in the southwest suburb of missouri city, more than homes were damaged in the sienna plantation neighborhood."
+  },
+  {
+    "idx": 7,
+    "damage_bucket": "flooding",
+    "source_event": "hurricane-harvey",
+    "text": "charlie riedel\u2014ap people walk down a flooded street as they evacuate their homes after the area was inundated with flooding from hurricane harvey on aug."
+  },
+  {
+    "idx": 8,
+    "damage_bucket": "flooding",
+    "source_event": "hurricane-harvey",
+    "text": "joe raedle\u2014getty images people wait to be rescued from their homes after the area was inundated with flooding from hurricane harvey on aug."
+  },
+  {
+    "idx": 9,
+    "damage_bucket": "flooding",
+    "source_event": "hurricane-harvey",
+    "text": "luke sharrett\u2014bloomberg/getty images people wait to be rescued from their flooded homes after the area was inundated with flooding from hurricane harvey on august , in houston, texas."
+  },
+  {
+    "idx": 10,
+    "damage_bucket": "flooding",
+    "source_event": "hurricane-harvey",
+    "text": "joe raedle\u2014getty images people walk down a flooded street as they evacuate their homes after the area was inundated with flooding from hurricane harvey on aug."
+  },
+  {
+    "idx": 11,
+    "damage_bucket": "structural_damage",
+    "source_event": "palu-tsunami",
+    "text": "buildings turned into rubble, over , people lost their lives, , more displaced and thousands still missing."
+  },
+  {
+    "idx": 12,
+    "damage_bucket": "structural_damage",
+    "source_event": "palu-tsunami",
+    "text": "the natural disaster in palu came just two months after series of big earthquakes in the island of lombok which killed hundreds and destroyed thousands of homes."
+  },
+  {
+    "idx": 13,
+    "damage_bucket": "generic_damage",
+    "source_event": "palu-tsunami",
+    "text": "communication was also limited as telecommunication towers were destroyed and roads were damaged, making it difficult to contact and reach remote affected areas."
+  },
+  {
+    "idx": 14,
+    "damage_bucket": "generic_damage",
+    "source_event": "palu-tsunami",
+    "text": "video on social media shows people screaming and fleeing in panic and a mosque among the buildings damaged."
+  },
+  {
+    "idx": 15,
+    "damage_bucket": "structural_damage",
+    "source_event": "palu-tsunami",
+    "text": "thousands of homes have collapsed, along with hospitals, hotels and a shopping centre."
+  },
+  {
+    "idx": 16,
+    "damage_bucket": "structural_damage",
+    "source_event": "palu-tsunami",
+    "text": "\"the situation is chaotic, people are running on the streets and buildings collapsed."
+  },
+  {
+    "idx": 17,
+    "damage_bucket": "volcanic_damage",
+    "source_event": "guatemala-volcano",
+    "text": "flows of mud and ash have covered roads and crops and destroyed bridges."
+  },
+  {
+    "idx": 18,
+    "damage_bucket": "generic_damage",
+    "source_event": "guatemala-volcano",
+    "text": "these fast-moving flows engulfed whole villages at the bottom of the volcanic slope."
+  },
+  {
+    "idx": 19,
+    "damage_bucket": "wildfire",
+    "source_event": "socal-fire",
+    "text": "this southern california inferno is the biggest wildfire in california since it least .the thomas fire is the seventh most destructive, with at least , homes, businesses and other structures destroyed ."
+  },
+  {
+    "idx": 20,
+    "damage_bucket": "wildfire",
+    "source_event": "socal-fire",
+    "text": "the latest wildfires follow a series of blazes in october that killed people and destroyed nearly , homes and other structures as they tore through more than , acres in the wine country in and around sonoma and napa counties."
+  },
+  {
+    "idx": 21,
+    "damage_bucket": "wildfire",
+    "source_event": "socal-fire",
+    "text": "collectively across the southern portion of the state, , firefighters are deployed at the fires, more than , acres had burned, structures had been destroyed, and have forced over , people to evacuate their homes as of the morning of saturday december th ."
+  },
+  {
+    "idx": 22,
+    "damage_bucket": "wildfire",
+    "source_event": "socal-fire",
+    "text": "as of december th, the creek fire had burned , acres, destroyed structures, including homes in the communities of santa clarita, glendale, and olive view."
+  },
+  {
+    "idx": 23,
+    "damage_bucket": "wildfire",
+    "source_event": "socal-fire",
+    "text": "as of december th, the rye fire was % contained burned , acres, destroying six buildings."
+  },
+  {
+    "idx": 24,
+    "damage_bucket": "flooding",
+    "source_event": "hurricane-florence",
+    "text": "although florence will be remembered primarily for its record-breaking flooding, wind gusts over mph caused significant damage to buildings, trees, and electrical service across the cape fear area, and a storm surge of over four feet eroded beaches and damaged property between cape fear and cape lookout."
+  },
+  {
+    "idx": 25,
+    "damage_bucket": "volcanic_damage",
+    "source_event": "hurricane-florence",
+    "text": "widespread flash flooding on september and closed many roads and inundated neighborhoods."
+  },
+  {
+    "idx": 26,
+    "damage_bucket": "generic_damage",
+    "source_event": "hurricane-florence",
+    "text": "(photo credit: carl morgan/nws) florence's storm surge covered roads in sand, while its wind damaged siding and roofs."
+  },
+  {
+    "idx": 27,
+    "damage_bucket": "volcanic_damage",
+    "source_event": "hurricane-florence",
+    "text": "widespread flash flooding september and closed many roads and inundated neighborhoods."
+  },
+  {
+    "idx": 28,
+    "damage_bucket": "generic_damage",
+    "source_event": "hurricane-florence",
+    "text": "many fences were damaged or destroyed, and roads were blocked due to downed trees."
+  },
+  {
+    "idx": 29,
+    "damage_bucket": "generic_damage",
+    "source_event": "hurricane-florence",
+    "text": "in southport falling trees damaged homes, businesses, and churches."
+  },
+  {
+    "idx": 30,
+    "damage_bucket": "flooding",
+    "source_event": "hurricane-florence",
+    "text": "(a seiche is a storm surge-like sloshing of the lake produced by high winds) the whiteville news reporter indicated the storm \"destroyed nearly every pier and boathouse on lake waccamaw, sending water across waccamaw shores and canal cove drive for the first time in memory.\" around percent of homes on lake waccamaw suffered damage due to falling trees, flooding, or battering from floating debris in the water."
+  },
+  {
+    "idx": 31,
+    "damage_bucket": "volcanic_damage",
+    "source_event": "hurricane-florence",
+    "text": "(photo credit: nws) many roads were damaged or washed away from record flooding along the cape fear river, such as this one near white oak road in bladen county (photo credit: nws) robeson county ..."
+  },
+  {
+    "idx": 32,
+    "damage_bucket": "flooding",
+    "source_event": "hurricane-florence",
+    "text": "significant flooding destroyed homes and businesses in low-lying parts of lumberton."
+  },
+  {
+    "idx": 33,
+    "damage_bucket": "volcanic_damage",
+    "source_event": "hurricane-florence",
+    "text": "a total of roads suffered damage or were washed out by flooding."
+  },
+  {
+    "idx": 34,
+    "damage_bucket": "generic_damage",
+    "source_event": "hurricane-florence",
+    "text": "there were some power outages during the storm, but buildings, piers, and beaches were largely undamaged."
+  },
+  {
+    "idx": 35,
+    "damage_bucket": "generic_damage",
+    "source_event": "hurricane-florence",
+    "text": "data provided by georgetown county emergency management in late november indicated homes across the county sustained a total of $, of damage during hurricane florence, and two businesses were damaged totaling $,."
+  },
+  {
+    "idx": 36,
+    "damage_bucket": "flooding",
+    "source_event": "hurricane-florence",
+    "text": "in the town of nichols approximately homes recently rebuilt after flooding from hurricane matthew were damaged again."
+  },
+  {
+    "idx": 37,
+    "damage_bucket": "generic_damage",
+    "source_event": "hurricane-florence",
+    "text": "emergency management officials were aware of six buildings destroyed and approximately more damaged across the county."
+  },
+  {
+    "idx": 38,
+    "damage_bucket": "generic_damage",
+    "source_event": "hurricane-florence",
+    "text": "twenty-three county maintained roads were damaged due to the hurricane."
+  },
+  {
+    "idx": 39,
+    "damage_bucket": "flooding",
+    "source_event": "hurricane-florence",
+    "text": "a fema report indicated homes in darlington county had major flood damage, and one home was completely destroyed."
+  },
+  {
+    "idx": 40,
+    "damage_bucket": "flooding",
+    "source_event": "hurricane-florence",
+    "text": "flooding damaged approximately homes throughout the county."
+  },
+  {
+    "idx": 41,
+    "damage_bucket": "generic_damage",
+    "source_event": "santa-rosa-wildfire",
+    "text": "this fire also completely destroyed hundreds of homes in the fountaingrove neighborhoods \u2013 cul-de-sac after cul-de-sac were obliterated."
+  },
+  {
+    "idx": 42,
+    "damage_bucket": "generic_damage",
+    "source_event": "santa-rosa-wildfire",
+    "text": "one of santa rosa\u2019s iconic and most visible historical buildings was % destroyed, the fountaingrove red barn (hopefully the city will rebuild this asap)."
+  },
+  {
+    "idx": 43,
+    "damage_bucket": "generic_damage",
+    "source_event": "santa-rosa-wildfire",
+    "text": "a number of vintner\u2019s homes were also destroyed in this part of napa."
+  },
+  {
+    "idx": 44,
+    "damage_bucket": "wildfire",
+    "source_event": "santa-rosa-wildfire",
+    "text": "stags leap district: hagafen (minor damage) and signorello estate (winery and hospitality center completely burned down) and some buildings at stags\u2019 leap winery."
+  },
+  {
+    "idx": 45,
+    "damage_bucket": "wildfire",
+    "source_event": "santa-rosa-wildfire",
+    "text": "this fire was not unprecedented \u2013 although it certainly was in terms of homes & businesses burned and the economic damage."
+  },
+  {
+    "idx": 46,
+    "damage_bucket": "wildfire",
+    "source_event": "santa-rosa-wildfire",
+    "text": "la times article with father of author tubbs fire santa rosa overview video the fire overlooking home depot end of terra linda drive right in the middle of the flames attacking with water truck hosing down the hot spots garage burned house saved apartment ablaze next to home depot wall of flames quickly approaching lomitas heights neighborhood lake park drive fountaingrove flames trying to put out hot spots with a broom and a bucket of water fires raging in fountaingrove northern santa rosa burning at am (mostly coffee park) smoke and flames getting close flames continue to creep close despite our best firefighting efforts another home goes up in flames \u2013 around am fountaingrove neighborhood what is left of fountaingrove village (sweet t\u2019s restaurant) what is left of fountaingrove golf course club house lone golfer reflected by glow of nearby flames hundreds of homes destroyed in fountaingrove neighborhood pulling into driveway in hills of fountaingrove burned out vehicle only the bikes left part of fountaingrove village shopping center bella vista neighborhood almost total destruction welcome, not at all..."
+  },
+  {
+    "idx": 47,
+    "damage_bucket": "wildfire",
+    "source_event": "santa-rosa-wildfire",
+    "text": "home of the fountaingrove red barn nectar restaurant & lounge, hilton whats left of the hilton in fountaingrove bella vista neighborhood yet another car torched utter destruction yet another neighborhood gone whats left of someones once beautiful home common sites like this, car torched, house torched power lines down on parker hill road just total devastation homes destroyed in all directions utter destruction in all directions melted paint on a car whats left of the fountaingrove firestation # the garage of the fountaingrove firestation aerial, fire damage aerial, fountaingrove hotels/motels destroyed america\u2019s best value inn & suites outside the america\u2019s best value inn & suites room , america\u2019s best value inn & suites corridor next to rooms, america\u2019s best value inn & suites america\u2019s best value inn & suites devastation edge of lobby, america\u2019s best value inn fire alarm, america\u2019s best value inn & suites inside lobby, america\u2019s best value inn & suites america\u2019s best value inn burned out car in the wine country inn & suites looking down on the fountaingrove inn the spa & pool at the fountaingrove inn stone walls still standing, fountaingrove inn fountaingrove inn almost total destruction steel beams still standing, fountaingrove inn closeup pool, fountaingrove inn fountaingrove inn vehicle burned, fountaingrove inn looking down the hallway, fountaingrove inn steps leading nowhere, hilton sonoma county electrical room, hilton sonoma county destruction, hilton sonoma county total destruction, hilton sonoma county the hilton flag was slightly charred what a mess, hilton sonoma county no smoking sign, hilton sonoma county air conditioning units, hilton sonoma county looking through wall \u2018window\u2019, fountaingrove inn mostly cleveland ave businesses mountain mike\u2019s pizza gone the fountain and the sign, all thats left gas station almost total destruction arby\u2019s drive through applebees in front of kohls u loot, we shoot \u2013 sean means business all thats left of gas station on corner of hopper ave & the freeway exit total devastation of applebees in front of kohls , the address of burned out applebys restaurant drive through arby\u2019s?"
+  },
+  {
+    "idx": 48,
+    "damage_bucket": "volcanic_damage",
+    "source_event": "santa-rosa-wildfire",
+    "text": "the irony of the name of this store surrounded by burned out buildings is dramatically ironic edge of coffee park neighborhood another building, totally destroyed former gun store total loss near corner of piner & range wine country bride building burned out vehicle along cleveland ave burned out tire trader joe\u2019s burned out sign total loss, puerta vallarta mexican restaurant inside the puerta vallarta restaurant , square foot kmart a total loss burned palms in front of kmart mountain mikes pizza like an apocalypse so many destroyed homes in the vicinity of coffee lane devastation more devastation next to cleveland ave, this building sustained damage truck parked next to cleveland ave puerta vallarta mexican restaurant kmart total building loss burning electrical line pole in the immediate aftermath, cleveland ave trader joes burned out sign mountain mike\u2019s pizza delivery vehicles escaped outside of kmart \u2013 santa rosa will never have another kmart store again inside kmart no parking, fire lane \u2013 kmart wok left in the destruction open sign fell to the ground after the fire coffee park from the ashes we will rise burned out car, burned out trees two prominent streets, hopper & coffee lane toasted lemons still hanging burned garbage can with burned garbage coffee strong steel survives fire \u201ctell your heart to beat again\u201d a white picket fence survives burned out garage with car still in garage melted metal from vehicle \u201ctoo late, we found our gold stash and then some\u201d bleeding part of a car total destruction in all directions burned out car & wheelchair car was being worked on before the fire the salvation army helping out what a mess chaos of the destruction looking for lost cats burned basketball hoop children\u2019s bicycles, note the burned tires at the edge of the vineyards we stand strong perhaps a sense of humor destruction everywhere block after block as far as you can see cars still parked in the driveway amazingly most of this car\u2019s exterior did not burn massive destruction a metal structure skeleton survives visually, / of this old truck burned car after car burned out a burned chevrolet sign destruction as far as the eye can see burned out horse trailer a burned out truck a pov photo through two burned cars a burned out motor boat destruction at sunset no surviving homes in all directions more burned cars clearing trees at the edge of the burned areas charred cactus cardinal newman high school front of the school the fire burned the field burned the batting cages dead palm trees near the lockers significant damage the heart of campus main entrance burned but not gone, cardinal newman sign cars across from campus significant damage here pool behind campus journeys end trailer park mark west springs neighborhoods mark west estates, we found lots of arrowheads here over the years chimney remains wheelchair escaped the fire only the chimneys standing burned out cars total destruction, block after block whats left of fish pond row after row of houses gone usps postal box entire neighborhoods burned in several hours this fire came all the way from near calistoga city blocks destroyed hidden valley cloverleaf ranch before (all of these structures burned down) fountaingrove golf & athletic club fountaingrove golf course america\u2019s best value inn & suites sign america\u2019s best value inn & suites fountaingrove inn hotel fountaingrove inn hotel hilton fountaingrove hilton fountaingrove sweet t\u2019s restaurant, fountaingrove courtyard, sweet t\u2019s paradise ridge winery red barn, fountaingrove videos fighting fire on front lines, fountaingrove neighborhood video aerial view, fountaingrove village video aerial view, fountaingrove cul-de-sacs video aerial view fountaingrove golf course clubhouse video santa rosa, calif."
+  },
+  {
+    "idx": 49,
+    "damage_bucket": "generic_damage",
+    "source_event": "santa-rosa-wildfire",
+    "text": "dozens died, and thousands of homes were destroyed, , alone from the tubbs fire that scorched santa rosa."
+  },
+  {
+    "idx": 50,
+    "damage_bucket": "volcanic_damage",
+    "source_event": "santa-rosa-wildfire",
+    "text": "houses were reduced to smoking piles of ash, leaving a thick cloud of smoke that burned the eyes and lungs."
+  },
+  {
+    "idx": 51,
+    "damage_bucket": "volcanic_damage",
+    "source_event": "santa-rosa-wildfire",
+    "text": "when their owners return to destroyed homes, all they\u2019ll recognize is the trash they threw out before running for their lives."
+  },
+  {
+    "idx": 52,
+    "damage_bucket": "generic_damage",
+    "source_event": "santa-rosa-wildfire",
+    "text": "more than , homes and other structures have been destroyed, and an estimated , people have been evacuated."
+  },
+  {
+    "idx": 53,
+    "damage_bucket": "wildfire",
+    "source_event": "santa-rosa-wildfire",
+    "text": "tens of thousands of acres and dozens of homes and businesses have burned in wildfires in napa and sonoma counties."
+  },
+  {
+    "idx": 54,
+    "damage_bucket": "generic_damage",
+    "source_event": "santa-rosa-wildfire",
+    "text": "the neighborhood was completely destroyed by the tubbs fire days ago, with many residents fleeing in haste as their homes were enveloped in flames."
+  },
+  {
+    "idx": 55,
+    "damage_bucket": "generic_damage",
+    "source_event": "santa-rosa-wildfire",
+    "text": "the neighborhood was completely destroyed by the tubbs fire days ago, with many residents fleeing in haste as their homes were enveloped in flames."
+  },
+  {
+    "idx": 56,
+    "damage_bucket": "volcanic_damage",
+    "source_event": "midwest-flooding",
+    "text": "countless roads and bridges are washed out and/or damaged in nebraska, cutting off whole communities."
+  },
+  {
+    "idx": 57,
+    "damage_bucket": "generic_damage",
+    "source_event": "hurricane-matthew",
+    "text": ", homes damaged or destroyed breached dams ,, cubic yards of storm debris , household power outages copyright wmbf."
+  },
+  {
+    "idx": 58,
+    "damage_bucket": "volcanic_damage",
+    "source_event": "hurricane-matthew",
+    "text": "buildings were flooded, roads washed out, and sections of interstates and were flooded in the tar heel state."
+  },
+  {
+    "idx": 59,
+    "damage_bucket": "volcanic_damage",
+    "source_event": "hurricane-matthew",
+    "text": "near cameron, south carolina: road washed out columbia, south carolina: numerous roads closed due to flooding, downed powerlines, trees college park, south carolina: water entering some homes caribbean and bahamas storm reports, recap on the day matthew was named (sept."
+  },
+  {
+    "idx": 60,
+    "damage_bucket": "volcanic_damage",
+    "source_event": "hurricane-matthew",
+    "text": "entire towns were destroyed, bridges washed away, and communities left stranded."
+  },
+  {
+    "idx": 61,
+    "damage_bucket": "tsunami_inundation",
+    "source_event": "hurricane-michael",
+    "text": "text, imessage or whatsapp your videos, photos and stories to cnn when it\u2019s safe: -- cnn \u2014 the devastation left by hurricane michael in several states is still coming into focus, with coastal florida cities destroyed beyond recognition, and homes, businesses and agriculture torn or swamped from georgia to virginia."
+  },
+  {
+    "idx": 62,
+    "damage_bucket": "generic_damage",
+    "source_event": "hurricane-michael",
+    "text": "a psychiatric hospital in florida is isolated after downed trees blocked roads around chattahoochee, and a tree caused a water line to break."
+  },
+  {
+    "idx": 63,
+    "damage_bucket": "structural_damage",
+    "source_event": "hurricane-michael",
+    "text": "thousands of residents in the florida panhandle are slowly returning to their homes and discovering that everything or almost everything they owned has been reduced to rubble."
+  },
+  {
+    "idx": 64,
+    "damage_bucket": "volcanic_damage",
+    "source_event": "hurricane-michael",
+    "text": "an aerial photo shows homes and businesses destroyed after hurricane michael smashed into florida's northwest coast in mexico beach."
+  },
+  {
+    "idx": 65,
+    "damage_bucket": "generic_damage",
+    "source_event": "hurricane-michael",
+    "text": "you cannot tell where he stopped harvest and where the rest of it was being harvested by the storm.\" more than poultry houses were also destroyed, officials say."
+  },
+  {
+    "idx": 66,
+    "damage_bucket": "generic_damage",
+    "source_event": "hurricane-michael",
+    "text": "mexico beach, florida wjax-tv aerial footage of houses completely destroyed by hurricane michael in mexico beach, florida."
+  },
+  {
+    "idx": 67,
+    "damage_bucket": "wildfire",
+    "source_event": "hurricane-michael",
+    "text": "mexico beach, florida wjax-tv the burned-out remnants of homes in mexico beach, florida, after hurricane michael slammed into the town on october , ."
+  },
+  {
+    "idx": 68,
+    "damage_bucket": "generic_damage",
+    "source_event": "hurricane-michael",
+    "text": "mexico beach, florida wjax-tv aerial footage shows damaged and destroyed homes in mexico beach, florida, after hurricane michael slammed into the town on october , ."
+  },
+  {
+    "idx": 69,
+    "damage_bucket": "generic_damage",
+    "source_event": "hurricane-michael",
+    "text": "mexico beach, florida wjax-tv aerial footage shows rows of damaged and destroyed homes lining the beach in mexico beach, florida, after hurricane michael slammed into the town on october , ."
+  }
+]
