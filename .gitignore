@@ -1,0 +1,95 @@
+# ==========================================================
+# Project 2B - Grounded Multimodal Retrieval
+# ==========================================================
+
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ----------------------------
+# Virtual Environments
+# ----------------------------
+venv/
+.venv/
+env/
+ENV/
+v9env/
+
+# ----------------------------
+# IDE
+# ----------------------------
+.vscode/
+.idea/
+
+# ----------------------------
+# OS
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Python Caches
+# ----------------------------
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# ----------------------------
+# Logs
+# ----------------------------
+*.log
+
+# ----------------------------
+# Model Checkpoints
+# ----------------------------
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# ----------------------------
+# Large Embedding Artifacts
+# (Stored externally or regenerated)
+# ----------------------------
+artifacts/
+!artifacts/README.md
+
+# ----------------------------
+# FAISS Indexes
+# (Can be regenerated)
+# ----------------------------
+indexes/
+!indexes/README.md
+
+# ----------------------------
+# Generated Retrieval Results
+# ----------------------------
+results/
+!results/README.md
+
+# ----------------------------
+# Temporary Files
+# ----------------------------
+tmp/
+temp/
+
+# ----------------------------
+# Local Experiment Files
+# ----------------------------
+Archive/
+GitHub SSH/
+
+# ----------------------------
+# Presentation Source
+# (Keep PDF, ignore PowerPoint)
+# ----------------------------
+*.pptx
+
+# ----------------------------
+# Jupyter
+# ----------------------------
+*.ipynb
